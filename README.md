@@ -15,3 +15,5 @@ Oyun, oyuncunun yılanı yön tuşları ile kontrol etmesini sağlar. Yem toplan
 Bu oyun, oyuncunun dikkat ve hafıza yeteneklerini geliştirir. Oyuncu, yılanın hareketlerini dikkatle takip etmeli ve duvarlara veya kendine çarpmaktan kaçınmalıdır. Ayrıca, hangi panelde daha fazla yem toplandığını hatırlamak, oyuncunun hafıza kapasitesini zorlar.
 
 ![oyun_ekrani](https://github.com/furkanak47/unity_y-lan/assets/148468950/a56d16fa-1d79-40e1-b86a-02fdc8ba054a)
+![oyun_ekrani2](https://github.com/furkanak47/unity_y-lan/assets/148468950/3d71598a-9b4a-499b-8a9e-166d8a7c4092)
+![oyun_ekrani3](https://github.com/furkanak47/unity_y-lan/assets/148468950/9a5213de-3e95-4a95-8133-49d413836ae0)
