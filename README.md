@@ -13,3 +13,5 @@ Oyun, oyuncunun yılanı yön tuşları ile kontrol etmesini sağlar. Yem toplan
 
 ## Oyunun Dikkat ve Hafıza Geliştirici Özellikleri
 Bu oyun, oyuncunun dikkat ve hafıza yeteneklerini geliştirir. Oyuncu, yılanın hareketlerini dikkatle takip etmeli ve duvarlara veya kendine çarpmaktan kaçınmalıdır. Ayrıca, hangi panelde daha fazla yem toplandığını hatırlamak, oyuncunun hafıza kapasitesini zorlar.
+
+![oyun_ekrani](https://github.com/furkanak47/unity_y-lan/assets/148468950/a56d16fa-1d79-40e1-b86a-02fdc8ba054a)
