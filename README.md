@@ -23,3 +23,8 @@ https://1drv.ms/f/c/bd9c37585f5975dc/EoCRewRoscxNi82lZRq8UK8BKhvDb9rZEJrCeGr8IQY
 
 Sonuç
 Bu README dosyası, yılan oyununun temel özelliklerini, dikkat ve hafıza gelişimine katkılarını ve kod yapısını açıklamaktadır. Oyun, Unity oyun motoru kullanılarak geliştirilmiş olup, temel C# scriptleri ile oyun mekaniği oluşturulmuştur.
+
+
+
+oyunun drive daki linki:
+https://1drv.ms/f/c/bd9c37585f5975dc/EvBb27HfGiBAnTM-3oVdir0ByNn0kCPBkzWMRkRYV8ZfCQ
